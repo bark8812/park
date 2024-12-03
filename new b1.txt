@@ -1,3 +1,0 @@
-new b1
-intsert new
-new new new 
